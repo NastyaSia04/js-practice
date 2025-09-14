@@ -1,2 +1,3 @@
-# js-practice
-Problem solving practice
+# 📘 JavaScript Tasks  
+
+🧩 This repository contains my **solutions** to problems on various topics.
